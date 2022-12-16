@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1 align="center">PROFILE</h1>
+
+<table border="1" align="center">
+        <tr>
+            <td><b><center>Nama Lengkap</center></td>
+            <td><b><center>NIM</center></b></td>
+            <td><b><center>Alamat</center></b></td>
+            <td><b><center>No HP</center></b></td>
+        </tr>
+        <tr>
+            <td>Muhammad Shah Zaid</td>
+            <td>1227050095</td>
+            <td>JL Cilengkrang 2</td>
+            <td>083142554834</td>
+        </tr>
+    </table>
+    
+</body>
+</html>
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
